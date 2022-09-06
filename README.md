@@ -1,6 +1,6 @@
 ### Hi, I'm Mardin Wijaya a.k.a Petr0max 👋
 
-Passionate Backend Developer with experience DevOps, I'm focus on Python Dev or Java Dev.
+Passionate Backend Developer with experience DevOps and sometimes handle Frontend Developer, I'm focus on Python, JavaScript, and Golang Development.
 
 - :briefcase: I’m currently looking for a job Backend Developer. If you have information in these position, please feel free contact me
 - 🌱 I’m currently learning anything I can get my hands on!
